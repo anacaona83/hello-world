@@ -1,1 +1,1 @@
-select * from blabla.sql
+select * from blabla.sql where toto='blabla';
